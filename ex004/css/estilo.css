@@ -1,0 +1,21 @@
+body{
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text1, .text2{
+    text-align: justify;
+    background-color: grey;
+    width: 600px;
+    padding: 30px 60px;
+    border: 8px solid darkblue;
+}
+
+.text2 {
+    padding: 0px;
+    border: 8px solid yellow;
+}
+
+.box{
+    border: 20px solid green;
+}

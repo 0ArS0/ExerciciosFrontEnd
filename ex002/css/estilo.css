@@ -1,0 +1,15 @@
+body{
+    font-size: 18px;
+}
+
+.first, .second{
+    border: 6px solid green;
+    width: 800px;
+    background-color: gray;
+    padding: 15px 20px;
+    margin-left: 400px;
+}
+
+.second{
+    margin-left: 0px;
+}

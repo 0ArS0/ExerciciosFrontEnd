@@ -1,0 +1,10 @@
+body{
+    font-size: 20px;
+}
+
+p{
+    background-color: grey;
+    border: 5px solid green;
+    padding: 10px 20px;
+    margin: -8px;
+}
